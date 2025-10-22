@@ -16,7 +16,7 @@ const PostDetails = () => {
             <p>Title: {title}</p>
             <p><small>{body}</small></p>
             <button onClick={handleGoBack}>Go Back</button>
-        </div>
+        </div> 
     );
 };
 
